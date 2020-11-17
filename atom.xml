@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>欢迎来到数值分析小站</title>
+  <icon>https://tang_dongsheng.gitee.io/icon.png</icon>
+  <subtitle>一个记录个人成长的地方</subtitle>
+  <link href="https://tang_dongsheng.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="https://tang_dongsheng.gitee.io/"/>
+  <updated>2020-11-17T11:16:32.927Z</updated>
+  <id>https://tang_dongsheng.gitee.io/</id>
+  
+  <author>
+    <name>xhstom</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://tang_dongsheng.gitee.io/2020/11/17/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <id>https://tang_dongsheng.gitee.io/2020/11/17/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
+    <published>2020-11-17T08:51:31.684Z</published>
+    <updated>2020-11-17T11:16:32.927Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请参考下面的三个教程&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/6844904115307462663&quot;&gt;博客搭建&lt;/a&gt;或&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="博客搭建" scheme="https://tang_dongsheng.gitee.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+  </entry>
+  
+</feed>
