@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>论文框架搭建</title>
+      <link href="2020/11/19/%E8%AE%BA%E6%96%87%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/"/>
+      <url>2020/11/19/%E8%AE%BA%E6%96%87%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/</url>
+      
+        <content type="html"><![CDATA[<p>先把论文大体框架给出来, 然后在慢慢写.</p><a id="more"></a><blockquote><p>摘要 最后写. 研究目的, 研究方法, 研究对象, 研究结果等.</p></blockquote><h1 id="1引言"><a href="#1引言" class="headerlink" title="1引言"></a>1引言</h1><p>给出研究问题的背景介绍,文献梳理, 研究问题的目的, 一些公式引入等等.</p><ul><li>方程</li><li>分数阶拉普拉斯方程的近似</li><li>能量守恒律</li><li>文献梳理</li><li>论文大纲</li></ul><h1 id="2-哈密顿系统和能量二次化方法"><a href="#2-哈密顿系统和能量二次化方法" class="headerlink" title="2 哈密顿系统和能量二次化方法"></a>2 哈密顿系统和能量二次化方法</h1><p>给出简明介绍</p><h2 id="2-1-哈密顿系统和原问题守恒律"><a href="#2-1-哈密顿系统和原问题守恒律" class="headerlink" title="2.1 哈密顿系统和原问题守恒律"></a>2.1 哈密顿系统和原问题守恒律</h2><p>给出一些重要引理和定理. </p><ul><li>傅里叶变换的一个性质</li><li>分数阶拉普拉斯算子的一个性质</li><li>一个泛函的变分计算</li><li>一个能量守恒律</li><li>一个变分和等价方程的关系</li></ul><h2 id="2-2-IEQ-method"><a href="#2-2-IEQ-method" class="headerlink" title="2.2 IEQ method"></a>2.2 IEQ method</h2><p>介绍 IEQ 方法以及相应的等价系统</p><ul><li>变量引入</li><li>将原方程重新等价地写为等价系统</li><li>等价系统的守恒律</li></ul><h1 id="3-保能量守恒格式构造"><a href="#3-保能量守恒格式构造" class="headerlink" title="3. 保能量守恒格式构造"></a>3. 保能量守恒格式构造</h1><h2 id="3-1-保结构空间离散"><a href="#3-1-保结构空间离散" class="headerlink" title="3.1 保结构空间离散"></a>3.1 保结构空间离散</h2><ul><li>里斯分数阶导数离散</li><li>分数阶拉普拉斯导数离散</li><li>分数阶拉普拉斯算子的一个性质</li></ul><h2 id="3-2-保能量离散格式"><a href="#3-2-保能量离散格式" class="headerlink" title="3.2 保能量离散格式"></a>3.2 保能量离散格式</h2><p>利用分数阶中心差分格式构造半离散格式</p><ul><li>格式能量守恒定理</li></ul><h2 id="3-3-全离散能量守恒格式"><a href="#3-3-全离散能量守恒格式" class="headerlink" title="3.3 全离散能量守恒格式"></a>3.3 全离散能量守恒格式</h2><ul><li>给出格式</li><li>启动层</li><li>给出格式守恒律</li></ul><h1 id="4-数值分析"><a href="#4-数值分析" class="headerlink" title="4 数值分析"></a>4 数值分析</h1><h2 id="4-1-稳定性和可解性"><a href="#4-1-稳定性和可解性" class="headerlink" title="4.1 稳定性和可解性"></a>4.1 稳定性和可解性</h2><ul><li>稳定性</li><li>唯一可解性</li></ul><h2 id="4-2-收敛性分析"><a href="#4-2-收敛性分析" class="headerlink" title="4.2 收敛性分析"></a>4.2 收敛性分析</h2><ul><li>Gronwall 不等式</li><li>Soboleve 不等式</li><li>范数一致性引理</li><li>离散格式中函数的性质</li><li>全离散收敛定理</li></ul><h1 id="5-数值实验"><a href="#5-数值实验" class="headerlink" title="5 数值实验"></a>5 数值实验</h1><h2 id="5-1-收敛率"><a href="#5-1-收敛率" class="headerlink" title="5.1 收敛率"></a>5.1 收敛率</h2><h2 id="5-2-能量守恒律"><a href="#5-2-能量守恒律" class="headerlink" title="5.2 能量守恒律"></a>5.2 能量守恒律</h2><h2 id="5-3-不同方法对比"><a href="#5-3-不同方法对比" class="headerlink" title="5.3 不同方法对比"></a>5.3 不同方法对比</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 论文写作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 论文写作 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2020/11/17/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
       <url>2020/11/17/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
